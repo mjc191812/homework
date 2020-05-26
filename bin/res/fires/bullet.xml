@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+
+<weaponFire>
+ <type>Bullet</type>
+ <imgsrc>bullet.png</imgsrc>
+ <velocity>0.7</velocity>
+ <size>0.2</size>
+ <lifeTime>48</lifeTime>
+ <damage>1</damage>
+ <splash>0.1</splash>
+ <hitOnlyFirst>1</hitOnlyFirst>
+</weaponFire>

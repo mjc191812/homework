@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+
+<wave>
+    <timeBetweenMinions>
+        100
+    </timeBetweenMinions>
+    <minion>
+        small
+    </minion>
+    <minion>
+        small
+    </minion>
+    <minion>
+        small
+    </minion>
+    <minion>
+        small
+    </minion>
+    <minion>
+        small
+    </minion>
+</wave>

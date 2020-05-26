@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/fonts/CyrilicOld.TTF</file>
+        <file>res/images/Arrow.png</file>
+        <file>res/maps/level.tmx</file>
+        <file>res/maps/map.tmx</file>
+        <file>res/images/background.jpg</file>
+        <file>res/images/bd.jpg</file>
+        <file>res/images/fd.jpg</file>
+        <file>res/images/qh.jpg</file>
+        <file>res/images/rd.jpg</file>
+        <file>res/images/tu1.jpg</file>
+        <file>res/images/tu2.jpg</file>
+        <file>res/images/tu3.jpg</file>
+        <file>res/images/fx1.jpg</file>
+        <file>res/images/cao.jpg</file>
+        <file>res/images/di.jpg</file>
+        <file>res/images/hy.jpg</file>
+        <file>res/images/hz.jpg</file>
+        <file>res/images/ax.jpg</file>
+        <file>res/images/back.jpg</file>
+        <file>res/music/atoe.mp3</file>
+        <file>res/music/2.mp3</file>
+        <file>res/images/bj3.jpg</file>
+        <file>res/images/bj2.jpg</file>
+        <file>res/images/bj1.jpg</file>
+        <file>res/images/hua.jpg</file>
+        <file>res/images/pink.png</file>
+        <file>res/images/TowerPlace.png</file>
+    </qresource>
+</RCC>

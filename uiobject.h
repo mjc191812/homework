@@ -1,16 +1,17 @@
-#ifndef UIOBJECT_H
-#define UIOBJECT_H
+#pragma once
+#include <QtWidgets>
 
-#include <QWidget>
-
-class UiObject : public QWidget
+class UiObject : public QLabel
 {
     Q_OBJECT
 public:
-    explicit UiObject(QWidget *parent = nullptr);
-
+    UiObject(QWidget *parent = nullptr);
+    int getCost();
+protected:
+    void mousePressEvent(QMouseEvent * event);
+private:
+    QPixmap * sprite;
+    int cost;
 signals:
-
+    void create();
 };
-
-#endif // UIOBJECT_H

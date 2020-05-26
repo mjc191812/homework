@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+
+<wave>
+    <timeBetweenMinions>
+        50
+    </timeBetweenMinions>
+    <minion count='10'>
+        casual
+    </minion>
+	<minion count='10'>
+		fast
+	</minion>
+</wave>
